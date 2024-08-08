@@ -1,0 +1,17 @@
+{
+    "name": "fiap/cursos_alunos_fiap",
+    "description": "Sistema de gerenciamento de cursos e alunos.",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Fiap\\CursosAlunosFiap\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Maria Lucilia Seraidarian",
+            "email": "mluciliaserai@gmail.com"
+        }
+    ],
+    "require": {}
+}
