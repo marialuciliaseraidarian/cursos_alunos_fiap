@@ -2,6 +2,10 @@
 
 Este projeto é uma aplicação para gerenciar cursos e alunos, desenvolvida como parte de um desafio para a FIAP.
 
+## Compatibilidade
+
+O projeto foi desenvolvido em PHP 8.3, mas todas as funcionalidades foram implementadas usando apenas recursos disponíveis até PHP 7.4 para garantir a compatibilidade com a versão solicitada.
+
 ## Arquitetura do Projeto
 
 Este projeto segue um padrão procedural, utilizando PHP e SQL. A escolha por um estilo procedural foi feita para simplificar a implementação e focar na resolução das necessidades específicas do desafio proposto.
