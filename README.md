@@ -53,10 +53,10 @@ Edite o arquivo database/config.php para configurar as credenciais de acesso ao 
 
 ```php
 <?php
-define('DB_SERVER', 'localhost');
-define('DB_USERNAME', 'root');
-define('DB_PASSWORD', 'senha');
-define('DB_DATABASE', 'nome_do_banco');
+define('DB_SERVER', 'localhost'); // Substitua por IP ou hostname do seu servidor de banco de dados
+define('DB_USERNAME', 'root'); // Substitua por seu nome de usuário do banco
+define('DB_PASSWORD', 'senha'); // Substitua pela senha do seu usuário
+define('DB_DATABASE', 'nome_do_banco'); // Substitua pelo nome do banco de dados que você criou
 ?>
 
 ```
